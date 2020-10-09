@@ -88,3 +88,28 @@ $duration: 1.4s;
 @keyframes rotator {
   100% { transform: rotate(270deg); }
 }
+
+
+@keyframes dash {g);
+ }
+ 100% {
+   stroke-dashoffset: $offset;
+   transform:rotate(450deg);
+ }
+}
+
+p {x;
+  margin: 50px auto;
+  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+
+* {
+  margin:0px;
+  padding:0px;
+}
+
+#octocat {
+  display: block;
+  width:384px;
+  margin: 50px auto;
+}
